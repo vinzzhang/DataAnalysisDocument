@@ -1,7 +1,7 @@
 # Data Analysis Document  
 
 
-## Udacity A/B Test of Free Trial Screener: Experiemnt Desgin & Analysis
+## Udacity A/B Test of Free Trial Screener: Experiment Design & Analysis
 + Experiment Design: 
   + user behavior funnel 
   + metrics choice: invariant/variant metrics; expected result to launch the experiment
@@ -12,17 +12,17 @@
   + result analysis: effect size tests; sign tests; recommendation  
 
 
-## Test a Perceptual Phenomenon: Paired T Test, Wilcoxon Signed Rank Test
+## Test a Perceptual Phenomenon: Paired T-Test, Wilcoxon Signed Rank Test
 ### Tools: python packages: scipy.stats, numpy, pandas, matplotlib
 + Experiment design of Stroop Effect
 + Assumption check of selected test
-+ Handle non normality: transformation, non-parametric test
++ Handle non-normality: transformation, non-parametric test
 + Interpret the result of the test: t-statistic, p-value  
 
 
 ## Stock Marketing Analysis: Moving Average, Risk Analysis
 ### Tools: python packages: numpy, pandas, matplotlib, seaborn
-+ Stock Performance Analysis: Moving Averge; Bullish/Bearish
++ Stock Performance Analysis: Moving Average; Bullish/Bearish
 + Daily Return Analysis: Correlation Coefficient
 + Risk Analysis: Value of Risk; Historical Method; Monte Carlo Simulation  
 
@@ -51,7 +51,7 @@ https://www.kaggle.com/vinzzhang/titanic-survival-prediction
 
 
 ## CPU Temperature Noise Reduction: Lowess, Kalman Filter
-### Tools: python packages: numpy, pandas, matplotlib,statsmodels ,pykalman  
+### Tools: python packages: numpy, pandas, matplotlib, statsmodels, pykalman  
 
 
 ## Pup Inflation Analysing Tweets: Wrangle, Ordinary Least Squares regression
