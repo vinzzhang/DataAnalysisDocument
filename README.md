@@ -1,5 +1,6 @@
 # Data Analysis Document
 
+
 ## Udacity A/B Test of Free Trial Screener: Experiemnt Desgin & Analysis
 + Experiment Design: 
   + user behavior funnel 
@@ -10,6 +11,7 @@
   + sanity check
   + result analysis: effect size tests; sign tests; recommendation
 
+
 ## Test a Perceptual Phenomenon: Paired T Test, Wilcoxon Signed Rank Test
 ### Tools: python packages: scipy.stats, numpy, pandas, matplotlib
 + Experiment design of Stroop Effect
@@ -17,34 +19,41 @@
 + Handle non normality: transformation, non-parametric test
 + Interpret the result of the test: t-statistic, p-value
 
+
 ## Stock Marketing Analysis: Moving Average, Risk Analysis
 ### Tools: python packages: numpy, pandas, matplotlib, seaborn
 + Stock Performance Analysis: Moving Averge; Bullish/Bearish
 + Daily Return Analysis: Correlation Coefficient
 + Risk Analysis: Value of Risk; Historical Method; Monte Carlo Simulation
 
+
 ## Titanic Survival Prediction: Top 7% among 11000+, Random Forest 
 ### Tools: python packages: numpy, pandas, matplotlib, sklearn
 https://www.kaggle.com/vinzzhang/titanic-survival-prediction
-+ EDA, wrangle of data & feature engineering
++ EDA, data wrangling & (feature engineering)
 + Evaluated machine learning models: **random forest**, Logistic regression, SVM, Naive Bayes, Decision tree
 + Tune parameters of models: k-fold stratified cross validation
 + Model ensemble later: voting
 
+
 ## RFM Model for Customer Value of Air Company: K-means
 ### Tools: python packages: numpy, pandas, matplotlib, sklearn
-+ EDA & wrangle of data
++ EDA & data wrangling
 + Cluster algorithm: k-means
 + Classify customers: RFM metrics
+
 
 ## Exploring Data in House Price: EDA
 ### Tools: python packages: numpy, pandas, matplotlib, scipy.stats
 + Univariate analysis
 + Multivariate analysis
-+ Wrangle & assumption test
++ Data wrangling & assumption test
+
 
 ## CPU Temperature Noise Reduction: Lowess, Kalman Filter
 ### Tools: python packages: numpy, pandas, matplotlib,statsmodels ,pykalman
 
+
 ## Pup Inflation Analysing Tweets: Wrangle, Ordinary Least Squares regression
 ### Tools: python packages: numpy, pandas, matplolib, seaborn, statsmodels, scipy
+
