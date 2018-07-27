@@ -1,4 +1,4 @@
-# Data Analysis Document  
+# Data Analysis Projects  
 
 
 ## Udacity A/B Test of Free Trial Screener: Experiment Design & Analysis
