@@ -27,7 +27,7 @@
 + Risk Analysis: Value of Risk; Historical Method; Monte Carlo Simulation  
 
 
-## Titanic Survival Prediction: Top 7% among 11000+, Random Forest 
+## Titanic Survival Prediction: Top 6% among 10000+, Random Forest 
 ### Tools: python packages: numpy, pandas, matplotlib, sklearn
 https://www.kaggle.com/vinzzhang/titanic-survival-prediction
 + EDA, data wrangling & (feature engineering)
