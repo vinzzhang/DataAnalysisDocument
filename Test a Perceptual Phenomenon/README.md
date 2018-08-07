@@ -1,4 +1,4 @@
-# Ud-DataAnalyst-StroopEffect
+# Analyze Stroop Effect
 
 ![Stroop Effect](https://d17h27t6h515a5.cloudfront.net/topher/2017/September/59b790ed_stroop-test-2/stroop-test-2.jpg)
 
